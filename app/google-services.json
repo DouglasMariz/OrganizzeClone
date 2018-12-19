@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "660589488279",
+    "firebase_url": "https://organizze-clone-dados.firebaseio.com",
+    "project_id": "organizze-clone-dados",
+    "storage_bucket": "organizze-clone-dados.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660589488279:android:5633560dd6ed5c4c",
+        "android_client_info": {
+          "package_name": "br.com.jins.projetos.organizzeclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660589488279-2f1g2l950g2fiaeg6cn7br34d22cqt8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.jins.projetos.organizzeclone",
+            "certificate_hash": "b67bc412c120757fdbf0a401c9414339c34b2b42"
+          }
+        },
+        {
+          "client_id": "660589488279-j4ijo7scs69ia2knfjp915vu25t2t6a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW2R0H7wsdOJJu08F2mx_8g20cbDYuIZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660589488279-j4ijo7scs69ia2knfjp915vu25t2t6a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

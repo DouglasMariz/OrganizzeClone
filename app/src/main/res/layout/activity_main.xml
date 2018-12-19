@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layoutMainId"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.main.MainActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_mainId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:id="@+id/menuFab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:layout_margin="10dp"
+        fab:menu_icon="@drawable/fab_add"
+
+        fab:menu_fab_size="normal"
+
+        fab:menu_colorNormal="@color/colorAccent"
+        fab:menu_colorPressed="@color/fabColorNormal"
+        fab:menu_colorRipple="@color/fabColorRipple"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"
+        fab:menu_labels_showAnimation="@anim/fab_slide_in_from_right"
+        fab:menu_labels_hideAnimation="@anim/fab_slide_out_to_right"
+        fab:menu_labels_textColor="@color/colorPrimaryText"
+        fab:menu_fab_label="Menu" >
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/fabDespesaId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_add_white_24dp"
+            fab:fab_colorNormal="@color/colorPrimaryDespesa"
+            fab:fab_colorPressed="@color/colorPrimaryDarkDespesa"
+            fab:fab_colorRipple="@color/colorAccentDespesa"
+            fab:fab_size="mini"
+            fab:fab_label="Despesa" />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/fabReceitaId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_add_white_24dp"
+            fab:fab_colorNormal="@color/colorPrimaryReceita"
+            fab:fab_colorPressed="@color/colorPrimaryDarkReceita"
+            fab:fab_colorRipple="@color/colorAccentReceita"
+            fab:fab_size="mini"
+            fab:fab_label="Receita" />
+
+    </com.github.clans.fab.FloatingActionMenu>
+
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

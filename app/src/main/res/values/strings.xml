@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">OrganizzeClone</string>
+    <string name="texto_intro_1">Organize suas contas \n de onde estiver</string>
+    <string name="texto_intro_1_rodape">Simples, fácil de usar e grátis</string>
+    <string name="texto_intro_2">Saiba para onde está indo \n o seu dinheiro</string>
+    <string name="texto_intro_2_rodape">Categorizando seus lançamentos e vendo o \n destino de cada centavo</string>
+    <string name="texto_intro_3">Nunca mais esqueça de \n pagar uma conta</string>
+    <string name="texto_intro_3_rodape">Receba alertas quando quiser</string>
+    <string name="texto_intro_4">Tudo organizado, no \n celular ou computador</string>
+    <string name="texto_intro_4_rodape">Use no seu smartphone e acessando o \n Organizze pelo site</string>
+    <string name="texto_intro_cadastro">Crie sua conta grátis</string>
+    <string name="texto_intro_cadastro_rodape">Junte-se a mais de meio milhão \n de pessoas  e comece já</string>
+    <string name="texto_intro_cadastro_botao">Cadastre-se</string>
+    <string name="texto_user_cadastrar_botao">Cadastrar</string>
+
+    <string name="user_hint_password">Password</string>
+    <string name="user_hint_email">E-mail</string>
+    <string name="user_hint_nome">Nome</string>
+
+    <string name="texto_intro_login">Acesse sua conta</string>
+    <string name="texto_login_entrar_botao">Entrar</string>
+
+    <string name="action_search">Procurar</string>
+
+    <string name="User_add_Invalid_Password">Preencha a senha do usuário!</string>
+    <string name="User_add_Invalid_Email">Preencha o e-mail do usuário!</string>
+    <string name="User_add_Invalid_Nome">Preencha o nome do usuário!</string>
+    <string name="User_add_Success">Sucesso, usuário cadastrado!</string>
+    <string name="User_add_Error_Exception_Passoword_IsNotStrong">Digite uma senha mais forte, contendo mais caracteres e com letras e números!</string>
+    <string name="User_Error_Exception_Passoword_IsNotValidate">A senha informada é invalido!</string>
+    <string name="User_Error_Exception_Email_IsNotValidate">O email informado é invalido!</string>
+    <string name="User_add_Error_Exception_Email_IsAlreadyUsed">Este email já está sendo usado no App!</string>
+    <string name="User_add_Error_Exception_AddUser">Erro ao efetuar o cadastro!</string>
+    <string name="User_login_Success">Sucesso ao realizar login no App!</string>
+    <string name="User_login_Error">Erro ao realizar login no App!</string>
+
+    <string name="item_configuracoes">Configurações</string>
+    <string name="item_sair">Sair</string>
+    <string name="item_pesquisa">Pesquisar</string>
+    <string name="LaunchSaveSucessText">Lançamento salvo com sucesso!</string>
+
+
+</resources>

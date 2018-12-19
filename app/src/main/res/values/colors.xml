@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01c7d2</color>
+    <color name="colorPrimaryDark">#00b2bc</color>
+    <color name="colorAccent">#ff706a</color>
+
+    <color name="colorAccentGreen">#00D39E</color>
+    <color name="colorAccentRed">#DA4336</color>
+
+    <!-- Cores para Depesa !-->
+    <color name="colorPrimaryDespesa">#FF706A</color>
+    <color name="colorPrimaryDarkDespesa">#E66560</color>
+    <color name="colorAccentDespesa">#FF706A</color>
+
+    <!-- Cores para Receita !-->
+    <color name="colorPrimaryReceita">#00D39E</color>
+    <color name="colorPrimaryDarkReceita">#00BE8B</color>
+    <color name="colorAccentReceita">#00D39E</color>
+
+    <color name="colorPrimaryText">#FFFFFF</color>
+
+    <color name="fabColorNormal">#DA4336</color>
+    <color name="fabColorPressed">#444444</color>
+    <color name="fabColorRipple">#66FFFFFF</color>
+
+
+</resources>
